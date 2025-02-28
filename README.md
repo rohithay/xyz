@@ -1,6 +1,6 @@
 # Usage
 
-```bash
+```
 Usage:
   pwdgen [options]
 
