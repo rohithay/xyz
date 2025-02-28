@@ -1,6 +1,6 @@
 # Usage
 
-```
+```bash
 Usage:
   pwgen [options]
 
@@ -28,12 +28,12 @@ Interactive mode commands:
 ```
 
 
-```
+```bash
 # Interactive mode
 ./pwdgen.js -i
 ```
 
-```
+```bash
 # Command line mode
 ./pwdgen.js -l 10
 ```
