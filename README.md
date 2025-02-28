@@ -2,7 +2,7 @@
 
 ```bash
 Usage:
-  pwgen [options]
+  pwdgen [options]
 
 Options:
   -l, --length <number>          Password length (default: 12)
