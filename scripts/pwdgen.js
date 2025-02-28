@@ -159,7 +159,7 @@ function printHelp() {
 Password Generator CLI
 
 Usage:
-  pwgen [options]
+  pwdgen [options]
 
 Options:
   -l, --length <number>          Password length (default: 12)
@@ -260,7 +260,7 @@ function startInteractive(generator, options) {
   const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
-    prompt: 'pwgen> '
+    prompt: 'pwdgen> '
   });
 
   console.log('Password Generator Interactive Mode');
