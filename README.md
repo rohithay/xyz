@@ -37,3 +37,7 @@ Interactive mode commands:
 # Command line mode
 ./pwdgen.js -l 10
 ```
+
+
+# Example
+<img width="721" alt="Screenshot 2025-03-01 at 2 34 19 AM" src="https://github.com/user-attachments/assets/523c673a-5f35-47c2-b071-caf866b13330" />
